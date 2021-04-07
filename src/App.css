@@ -1,0 +1,13 @@
+body{
+  width: 100vw;
+}
+.App{
+  width: 60%;
+  margin: auto;
+}
+#notHidden h2{
+  color: red;
+}
+#notHidden p{
+  color: green;
+}
