@@ -26,7 +26,7 @@ function App() {
         editor = {ClassicEditor }
         config={
           {
-            ckfinfer:{
+            ckfinder:{
               uploadUrl:'/'
             }
           }
